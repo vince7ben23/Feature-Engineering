@@ -1,3 +1,3 @@
 # Feature-Engineering
 
-[Fundamental Techniques.ipynb](Fundamental Techniques)
+[Fundamental Techniques](Fundamental Techniques.ipynb)
